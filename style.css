@@ -1,0 +1,21 @@
+.box1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.box2{
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.box3{
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+}
